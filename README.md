@@ -2,6 +2,8 @@
 A real-time device tracking application built with Node.js, Express, Socket.IO, and Leaflet.
 This application allows users to track their devices' locations on a map in real-time using geolocation.
 
+![map_img](https://github.com/user-attachments/assets/2d5acd6a-971b-45a1-bb6c-d8314295d819)
+
 # Features
 * Real-time location tracking using WebSocket.
 * Interactive map interface using Leaflet.
